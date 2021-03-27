@@ -6,7 +6,7 @@
 # install dependencies
 $ npm install
 
-# menjalankan aplikasi, pastikan api Laravel berjalan pada port 8000
+# menjalankan aplikasi, pastikan api Laravel berjalan pada localhost:8000
 $ npm dev
 
 
